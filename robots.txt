@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahkoophoom.wlog.cn/sitemap.xml
